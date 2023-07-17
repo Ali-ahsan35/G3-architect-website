@@ -15,7 +15,9 @@
     text-align: center;
     cursor: pointer;
 }
-
+.btn-primary:hover{
+    background-color: darkseagreen;
+}
 .text-light-gray {
     color: #727272;
     margin-top: 20px;
